@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "api_sentiment_analysis": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7043",
+      "launchBrowser": false
+    }
+  }
+}
