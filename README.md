@@ -59,5 +59,5 @@ This HTTP trigger expose an HTTP Post request with a request body that has the f
 
 Below is an overview of the Architecture that could be leveraged with the Sentiment Analysis API.
 
- ![](./Architecture/API-Sentiment-Analysis.pdf)
+ ![](./Architecture/SentimentAnalysis.jpg)
 
